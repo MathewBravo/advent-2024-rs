@@ -1,0 +1,9 @@
+F:\Development\Rust\rs-advent-of-code-2024\day-1-rs\target\debug\deps\libday_1_rs-41b8afea75c70549.rmeta: src/main.rs Cargo.toml
+
+F:\Development\Rust\rs-advent-of-code-2024\day-1-rs\target\debug\deps\day_1_rs-41b8afea75c70549.d: src/main.rs Cargo.toml
+
+src/main.rs:
+Cargo.toml:
+
+# env-dep:CLIPPY_ARGS=
+# env-dep:CLIPPY_CONF_DIR
